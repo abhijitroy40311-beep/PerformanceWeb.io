@@ -1,0 +1,11 @@
+# Production robots.txt for PerformanceWeb.io
+User-agent: *
+Allow: /
+
+# Prevent crawl budget waste on dynamic advertising tracking query parameters
+Disallow: /*?*fbclid=
+Disallow: /*?*gclid=
+Disallow: /*?*utm_
+
+# Sitemap definition
+Sitemap: https://www.performanceweb.io/sitemap.xml
