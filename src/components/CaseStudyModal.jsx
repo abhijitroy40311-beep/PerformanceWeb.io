@@ -12,8 +12,7 @@ export default function CaseStudyModal({ caseStudy, onClose, onConsultClick }) {
           type="button"
           onClick={onClose}
           className="absolute top-5 right-5 p-2 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-100 transition-colors"
-          aria-label="Close case study"
-        >
+          aria-label="Close case study">
           <X className="w-5 h-5" />
         </button>
 
