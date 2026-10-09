@@ -15,7 +15,7 @@ Data-driven campaign strategies engineered to drive qualified, high-intent traff
 
 *   **Campaign Architecture:** Comprehensive keyword research, competitor analysis, and highly relevant ad copywriting.
 *   **Conversion Tracking:** Precise implementation of tracking tags to monitor leads, sales, and specific user interactions.
-*   **Strategic Targeting:** Advanced demographic filtering, geo-targeting, and remarketing to capture audiences most likely to convert.
+*   **Strategic Targeting:** Advanced  graphic filtering, geo-targeting, and remarketing to capture audiences most likely to convert.
 *   **Continuous Optimization:** Ongoing A/B testing of ad creatives, landing page alignment, and bid adjustments to lower Cost-Per-Acquisition (CPA).
 
 ---

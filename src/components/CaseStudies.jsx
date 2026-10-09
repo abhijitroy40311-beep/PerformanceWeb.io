@@ -17,9 +17,9 @@ export default function CaseStudies({ onSelectCaseStudy }) {
         'Google Ads campaign structure, keyword targeting, conversion tracking, and landing page optimization focused on generating qualified enquiries.',
       services: ['Google Ads', 'Tracking', 'Landing Page CRO'],
       metrics: [
-        { label: 'Leads — Demo', val: '148', sub: 'Qualified B2B Quotes' },
-        { label: 'CPL — Demo', val: '$28.40', sub: 'Cost Per Enquiry' },
-        { label: 'Conv. Rate — Demo', val: '6.8%', sub: 'Page Form Submissions' },
+        { label: 'Leads —  ', val: '148', sub: 'Qualified B2B Quotes' },
+        { label: 'CPL —  ', val: '$28.40', sub: 'Cost Per Enquiry' },
+        { label: 'Conv. Rate —  ', val: '6.8%', sub: 'Page Form Submissions' },
       ],
       details: [
         'Single-keyword intent ad groups targeting B2B procurement terms (e.g., "[heavy packaging machine supplier]").',
@@ -33,7 +33,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
     {
       id: 'solar-installation',
       category: 'Clean Energy & Local',
-      badge: 'Campaign Demo',
+      badge: 'Campaign  ',
       title: 'Solar Installation Search Campaign',
       previewDomain: 'solar-installations.com/quote',
       visualType: 'solar',
@@ -41,9 +41,9 @@ export default function CaseStudies({ onSelectCaseStudy }) {
         'Search campaign strategy with conversion tracking and landing page optimization designed to increase qualified calls and enquiries.',
       services: ['Google Ads', 'Tracking', 'Landing Page CRO'],
       metrics: [
-        { label: 'Calls & Quotes — Demo', val: '215', sub: 'Inbound Consultations' },
-        { label: 'CPL — Demo', val: '$19.50', sub: 'Calculated Cost Per Lead' },
-        { label: 'Conv. Rate — Demo', val: '8.4%', sub: 'From Targeted Searches' },
+        { label: 'Calls & Quotes —  ', val: '215', sub: 'Inbound Consultations' },
+        { label: 'CPL —  ', val: '$19.50', sub: 'Calculated Cost Per Lead' },
+        { label: 'Conv. Rate —  ', val: '8.4%', sub: 'From Targeted Searches' },
       ],
       details: [
         'Geo-targeted Search campaigns focused strictly on homeowners and commercial facilities in active utility service areas.',
@@ -65,9 +65,9 @@ export default function CaseStudies({ onSelectCaseStudy }) {
         'Targeted Google Ads campaign with conversion tracking and landing page CRO focused on generating consultation enquiries.',
       services: ['Google Ads', 'Tracking', 'CRO'],
       metrics: [
-        { label: 'Inquiries — Demo', val: '184', sub: 'Patient Appointments' },
-        { label: 'Search CTR — Demo', val: '9.2%', sub: 'High Relevancy Score' },
-        { label: 'Conv. Rate — Demo', val: '9.7%', sub: 'Doctor Booking Page' },
+        { label: 'Inquiries —  ', val: '184', sub: 'Patient Appointments' },
+        { label: 'Search CTR —  ', val: '9.2%', sub: 'High Relevancy Score' },
+        { label: 'Conv. Rate —  ', val: '9.7%', sub: 'Doctor Booking Page' },
       ],
       details: [
         'Privacy-compliant search ads focusing on specialist treatment modalities and doctor credentials.',
@@ -86,12 +86,12 @@ export default function CaseStudies({ onSelectCaseStudy }) {
       previewDomain: 'performanceweb.io/analytics',
       visualType: 'dashboard',
       description:
-        'Performance-focused web application and analytics dashboard demonstrating campaign visibility, data presentation, and conversion-focused UX.',
+        'Performance-focused web application and analytics dashboard  nstrating campaign visibility, data presentation, and conversion-focused UX.',
       services: ['Analytics', 'Dashboard', 'Web Development'],
       metrics: [
-        { label: 'Event Tracking — Demo', val: '100%', sub: 'Clean GA4 Events' },
-        { label: 'Visibility — Demo', val: 'Real-Time', sub: 'KPI Data Sync' },
-        { label: 'UX Retention — Demo', val: '+42%', sub: 'Dashboard Engagement' },
+        { label: 'Event Tracking —  ', val: '100%', sub: 'Clean GA4 Events' },
+        { label: 'Visibility —  ', val: 'Real-Time', sub: 'KPI Data Sync' },
+        { label: 'UX Retention —  ', val: '+42%', sub: 'Dashboard Engagement' },
       ],
       details: [
         'Full tracking infrastructure connecting Google Ads API, Google Tag Manager, and custom analytics endpoints.',
@@ -133,7 +133,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
 
           <div className="mt-3 inline-flex items-center gap-1.5 text-xs text-slate-500 bg-white px-3 py-1.5 rounded-full border border-slate-200">
             <Info className="w-3.5 h-3.5 text-blue-600 shrink-0" />
-            <span>Note: Illustrative metrics are clearly labeled as Portfolio Demo data for transparency.</span>
+            <span>Note: Illustrative metrics are clearly labeled as Portfolio   data for transparency.</span>
           </div>
         </div>
 
@@ -213,7 +213,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
                     {study.description}
                   </p>
 
-                  {/* Key Metrics Area (Explicit Demo / Illustrative Labels) */}
+                  {/* Key Metrics Area (Explicit   / Illustrative Labels) */}
                   <div className="bg-slate-50 rounded-xl p-3.5 border border-slate-200">
                     <div className="grid grid-cols-3 gap-2 text-center">
                       {study.metrics.map((m, mIdx) => (

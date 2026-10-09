@@ -4,7 +4,7 @@ import { TrendingUp, MousePointerClick, Users, Percent, DollarSign, CheckCircle2
 export default function DashboardVisual() {
   const [activeTab, setActiveTab] = useState('30d');
 
-  // Illustrative demo datasets for interactive switching
+  // Illustrative datasets for interactive switching
   const datasets = {
     '14d': {
       clicks: '2,310',
@@ -81,9 +81,9 @@ export default function DashboardVisual() {
         </div>
 
         {/* Clear neutral compliance label */}
-        <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-slate-800/80 border border-slate-700/60 text-[11px] text-slate-300 font-medium" title="Sample metrics used to demonstrate campaign architecture and reporting visibility">
+        <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-slate-800/80 border border-slate-700/60 text-[11px] text-slate-300 font-medium" title="Sample metrics used to  nstrate campaign architecture and reporting visibility">
           <Info className="w-3.5 h-3.5 text-blue-400 shrink-0" />
-          <span>Portfolio Demo • Illustrative Data</span>
+          <span>Portfolio   • Illustrative Data</span>
         </div>
       </div>
 
@@ -133,7 +133,7 @@ export default function DashboardVisual() {
         {/* Leads */}
         <div className="bg-slate-950/60 border border-blue-900/40 rounded-xl p-3 hover:border-blue-700/60 transition-colors bg-gradient-to-br from-blue-950/20 to-transparent">
           <div className="flex items-center justify-between text-blue-300 mb-1">
-            <span className="text-[11px] font-medium uppercase tracking-wider">Leads (Demo)</span>
+            <span className="text-[11px] font-medium uppercase tracking-wider">Leads ( )</span>
             <Users className="w-3.5 h-3.5 text-blue-400" />
           </div>
           <div className="text-lg font-bold text-sky-400 tracking-tight">{current.leads}</div>
@@ -157,7 +157,7 @@ export default function DashboardVisual() {
         {/* Cost Per Lead */}
         <div className="bg-slate-950/60 border border-slate-800/80 rounded-xl p-3 hover:border-slate-700 transition-colors">
           <div className="flex items-center justify-between text-slate-400 mb-1">
-            <span className="text-[11px] font-medium uppercase tracking-wider">CPL (Demo)</span>
+            <span className="text-[11px] font-medium uppercase tracking-wider">CPL ( )</span>
             <DollarSign className="w-3.5 h-3.5 text-emerald-400" />
           </div>
           <div className="text-lg font-bold text-emerald-400 tracking-tight">{current.cpl}</div>
@@ -232,7 +232,7 @@ export default function DashboardVisual() {
       <div className="mt-4 space-y-2">
         <div className="flex items-center justify-between text-xs text-slate-400 px-1">
           <span>Search Campaign Strategy</span>
-          <span>Lead Volume (Demo)</span>
+          <span>Lead Volume ( )</span>
         </div>
 
         {current.campaigns.map((camp, index) => (

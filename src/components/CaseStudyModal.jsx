@@ -37,10 +37,10 @@ export default function CaseStudyModal({ caseStudy, onClose, onConsultClick }) {
           {caseStudy.description}
         </p>
 
-        {/* Metrics Grid (Carefully labeled as Demo / Illustrative) */}
+        {/* Metrics Grid (Carefully labeled as   / Illustrative) */}
         <div className="bg-slate-50 rounded-xl p-4 border border-slate-200 mb-6">
           <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wider mb-3 flex items-center justify-between">
-            <span>Portfolio Demo Performance Indicators</span>
+            <span>Portfolio   Performance Indicators</span>
             <span className="text-blue-600 font-normal lowercase">{caseStudy.badge}</span>
           </div>
           <div className="grid grid-cols-3 gap-3">
