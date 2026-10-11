@@ -109,11 +109,11 @@ export default function AuditModal({ isOpen, onClose }) {
               type="text"
               value={formData.goals}
               onChange={(e) => setFormData({ ...formData, goals: e.target.value })}
-              placeholder="e.g. High CPL, low lead quality, or no conversion tracking"
+              placeholder="High CPL, low lead quality, or no conversion tracking"
               className="w-full px-4 py-2.5 rounded-xl bg-slate-950 border border-slate-800 text-white placeholder-slate-500 text-sm focus:outline-none focus:border-blue-500"
             />
           </div>
-
+    
           {/* Exclusive WhatsApp Submit Action */}
           <div className="pt-3">
             <button

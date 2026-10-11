@@ -172,7 +172,7 @@ export default function Contact({ prefilledService = '' }) {
                       name="name"
                       value={formData.name}
                       onChange={handleChange}
-                      placeholder="e.g. John Doe / Apex Solutions"
+                      placeholder="Enter Your Name"
                       className="w-full px-4 py-3 rounded-xl bg-slate-900 border border-slate-800 text-white placeholder-slate-500 text-sm focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors"
                     />
                   </div>
@@ -186,7 +186,7 @@ export default function Contact({ prefilledService = '' }) {
                       name="website"
                       value={formData.website}
                       onChange={handleChange}
-                      placeholder="e.g. yourbusiness.com"
+                      placeholder="Your Business.com"
                       className="w-full px-4 py-3 rounded-xl bg-slate-900 border border-slate-800 text-white placeholder-slate-500 text-sm focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors"
                     />
                   </div>
