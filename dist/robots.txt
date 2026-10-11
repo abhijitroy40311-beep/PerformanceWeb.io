@@ -1,4 +1,4 @@
-# Production robots.txt for PerformanceWeb.io
+# Production robots.txt for https://performanceweb-io.vercel.app/
 User-agent: *
 Allow: /
 
@@ -8,4 +8,4 @@ Disallow: /*?*gclid=
 Disallow: /*?*utm_
 
 # Sitemap definition
-Sitemap: https://www.performanceweb.io/sitemap.xml
+Sitemap: https://performanceweb-io.vercel.app/sitemap.xml
