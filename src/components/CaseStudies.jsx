@@ -11,7 +11,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
       category: 'B2B Manufacturing',
       badge: 'Portfolio Project',
       title: 'Industrial Equipment Lead Generation',
-      previewDomain: 'industrial-equipment.com/procurement',
+      previewDomain: 'https://industrial-equipment-websitecom.vercel.app/',
       visualType: 'industrial',
       description:
         'Google Ads campaign structure, keyword targeting, conversion tracking, and landing page optimization focused on generating qualified enquiries.',
@@ -35,7 +35,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
       category: 'Clean Energy & Local',
       badge: 'Campaign  ',
       title: 'Solar Installation Search Campaign',
-      previewDomain: 'solar-installations.com/quote',
+      previewDomain: 'https://solar-indiacom.vercel.app/',
       visualType: 'solar',
       description:
         'Search campaign strategy with conversion tracking and landing page optimization designed to increase qualified calls and enquiries.',
@@ -59,7 +59,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
       category: 'Medical & Healthcare',
       badge: 'Portfolio Project',
       title: 'Healthcare Consultation Leads',
-      previewDomain: 'specialist-clinic.com/appointments',
+      previewDomain: 'https://consultantspecialistadvancedmedical.vercel.app/',
       visualType: 'medical',
       description:
         'Targeted Google Ads campaign with conversion tracking and landing page CRO focused on generating consultation enquiries.',
