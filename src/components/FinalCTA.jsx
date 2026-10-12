@@ -5,7 +5,7 @@ export default function FinalCTA({ onOpenAudit }) {
   const whatsappUrl =
     'https://wa.me/918777202487?text=' +
     encodeURIComponent(
-      'Hi Abhijit, I visited your PerformanceWeb.io portfolio and would like to discuss Google Ads for my business.'
+      'Hi Abhijit, I visited your https://performanceweb-io.vercel.app/ portfolio and would like to discuss Google Ads for my business.'
     );
 
   return (

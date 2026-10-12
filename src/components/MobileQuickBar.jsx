@@ -5,7 +5,7 @@ export default function MobileQuickBar({ onOpenAudit }) {
   const whatsappUrl =
     'https://wa.me/918777202487?text=' +
     encodeURIComponent(
-      'Hi Abhijit, I visited your PerformanceWeb.io portfolio and would like to discuss Google Ads for my business.'
+      'Hi Abhijit, I visited your  portfolio and would like to discuss Google Ads for my business.'
     );
 
   return (

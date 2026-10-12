@@ -16,7 +16,7 @@ export default function Contact({ prefilledService = '' }) {
   const emailAddress = 'abhijitroy40311@gmail.com';
 
   const defaultWhatsappMsg = encodeURIComponent(
-    'Hi Abhijit, I visited your PerformanceWeb.io portfolio and would like to discuss Google Ads for my business.'
+    'Hi Abhijit, I visited your https://performanceweb-io.vercel.app/ portfolio and would like to discuss Google Ads for my business.'
   );
 
   const handleChange = (e) => {

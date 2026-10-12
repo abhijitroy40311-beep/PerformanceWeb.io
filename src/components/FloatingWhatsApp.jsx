@@ -7,7 +7,7 @@ export default function FloatingWhatsApp() {
 
   const phoneNumber = '918777202487';
   const message = encodeURIComponent(
-    'Hi Abhijit, I visited your PerformanceWeb.io portfolio and would like to discuss Google Ads for my business.'
+    'Hi Abhijit, I visited your https://performanceweb-io.vercel.app/ portfolio and would like to discuss Google Ads for my business.'
   );
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 
