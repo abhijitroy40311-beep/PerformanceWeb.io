@@ -35,7 +35,7 @@ export default function Footer() {
               href="#home"
               onClick={(e) => handleNavClick(e, '#home')}
               className="inline-block"
-              aria-label="PerformanceWeb.io"
+              aria-label=" https://performanceweb-io.vercel.app/"
             >
               <BrandLogo size="md" showTagline={true} />
             </a>
@@ -88,7 +88,7 @@ export default function Footer() {
 
               <li>
                 <a
-                  href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20PerformanceWeb.io%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
+                  href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20 https://performanceweb-io.vercel.app/%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2.5 text-slate-400 hover:text-emerald-400 transition-colors"
@@ -118,7 +118,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div>
-            © 2026 PerformanceWeb.io. All rights reserved.
+            © 2026 Abhijit Roy | All rights reserved.
           </div>
 
           <button

@@ -43,7 +43,7 @@ export default function WhyChooseMe() {
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 tracking-tight">
-            Why Businesses Choose PerformanceWeb.io
+            Why Businesses Choose Us
           </h2>
 
           <p className="mt-4 text-base sm:text-lg text-slate-600 leading-relaxed">

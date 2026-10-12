@@ -83,7 +83,7 @@ export default function CaseStudies({ onSelectCaseStudy }) {
       category: 'Software & Analytics',
       badge: 'Illustrative Data',
       title: 'SaaS / Performance Dashboard',
-      previewDomain: 'performanceweb.io/analytics',
+      previewDomain: 'performanceweb-io.vercel.app',
       visualType: 'dashboard',
       description:
         'Performance-focused web application and analytics dashboard  nstrating campaign visibility, data presentation, and conversion-focused UX.',

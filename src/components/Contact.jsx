@@ -26,7 +26,7 @@ export default function Contact({ prefilledService = '' }) {
   // Formatted message generator
   const getComposedMessage = () => {
     return (
-      `Hi Abhijit, I reached out via PerformanceWeb.io:\n` +
+      `Hi Abhijit, I reached out via  https://performanceweb-io.vercel.app/:\n` +
       `• Name: ${formData.name || 'Not provided'}\n` +
       `• Website/Business: ${formData.website || 'Not provided'}\n` +
       `• Service of Interest: ${formData.service}\n` +

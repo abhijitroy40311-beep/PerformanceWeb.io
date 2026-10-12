@@ -132,7 +132,7 @@ export default function Navbar({ onOpenAudit }) {
               href="#home"
               onClick={(e) => handleNavClick(e, '#home', 'home')}
               className="flex items-center group transition-transform active:scale-95 shrink-0"
-              aria-label="PerformanceWeb.io Home"
+              aria-label=" https://performanceweb-io.vercel.app/ Home"
             >
               <BrandLogo size="responsive" />
             </a>
@@ -166,7 +166,7 @@ export default function Navbar({ onOpenAudit }) {
             <div className="hidden lg:flex items-center gap-3 shrink-0">
               {/* WhatsApp */}
               <a
-                href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20PerformanceWeb.io%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
+                href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20 https://performanceweb-io.vercel.app/%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-emerald-400 bg-emerald-950/40 hover:bg-emerald-900/50 border border-emerald-700/40 rounded-lg transition-all hover:scale-[1.02] active:scale-95"
@@ -308,7 +308,7 @@ export default function Navbar({ onOpenAudit }) {
                       </a>
 
                       <a
-                        href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20PerformanceWeb.io%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
+                        href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20 https://performanceweb-io.vercel.app/%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center justify-center gap-1.5 py-3 px-3 text-xs font-semibold text-emerald-400 bg-emerald-950/40 hover:bg-emerald-900/50 border border-emerald-800/50 rounded-xl transition-all active:scale-95"

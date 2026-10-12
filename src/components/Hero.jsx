@@ -71,7 +71,7 @@ export default function Hero({ onOpenAudit }) {
             <div className="flex flex-wrap items-center gap-4 pt-1 text-sm text-slate-400">
               <span className="text-xs uppercase tracking-wider text-slate-500 font-semibold">Direct Talk:</span>
               <a
-                href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20PerformanceWeb.io%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
+                href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20 https://performanceweb-io.vercel.app/%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 text-emerald-400 hover:text-emerald-300 font-medium transition-colors"
