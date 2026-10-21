@@ -46,7 +46,7 @@ export default function About() {
                 Google Ads & Performance Marketing Specialist
               </p>
               <p className="text-xs text-slate-400 mt-0.5">
-                Founder, @ performanceweb-io.vercel.app
+                Founder, @ GrowthPilot-io.vercel.app
               </p>
 
               {/* Direct verification badge */}

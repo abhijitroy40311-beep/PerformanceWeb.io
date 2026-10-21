@@ -46,7 +46,7 @@ export default function Testimonials() {
           </h2>
 
           <p className="mt-4 text-base sm:text-lg text-slate-600 leading-relaxed">
-            What business owners and marketing directors say about collaborating with <br /> Performanceweb-io.vercel.app.
+            What business owners and marketing directors say about collaborating with <br /> GrowthPilot-io.vercel.app.
           </p>
         </div>
 

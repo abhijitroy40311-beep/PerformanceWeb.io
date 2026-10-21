@@ -1,4 +1,4 @@
-# Production robots.txt for https://performanceweb-io.vercel.app/
+# Production robots.txt for https://GrowthPilot-io.vercel.app/
 User-agent: *
 Allow: /
 
@@ -8,4 +8,4 @@ Disallow: /*?*gclid=
 Disallow: /*?*utm_
 
 # Sitemap definition
-Sitemap: https://performanceweb-io.vercel.app/sitemap.xml
+Sitemap: https://GrowthPilot-io.vercel.app/sitemap.xml

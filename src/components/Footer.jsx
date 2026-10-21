@@ -35,7 +35,7 @@ export default function Footer() {
               href="#home"
               onClick={(e) => handleNavClick(e, '#home')}
               className="inline-block"
-              aria-label=" https://performanceweb-io.vercel.app/"
+              aria-label=" https://GrowthPilot-io.vercel.app/"
             >
               <BrandLogo size="md" showTagline={true} />
             </a>
@@ -88,7 +88,7 @@ export default function Footer() {
 
               <li>
                 <a
-                  href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20 https://performanceweb-io.vercel.app/%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
+                  href="https://wa.me/918777202487?text=Hi%20Abhijit,%20I%20visited%20your%20 https://GrowthPilot-io.vercel.app/%20portfolio%20and%20would%20like%20to%20discuss%20Google%20Ads%20for%20my%20business."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2.5 text-slate-400 hover:text-emerald-400 transition-colors"
